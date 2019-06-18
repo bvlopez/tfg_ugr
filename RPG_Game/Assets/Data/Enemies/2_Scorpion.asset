@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993c004cdcff1f340a1bbc736448be4d, type: 3}
+  m_Name: 2_Scorpion
+  m_EditorClassIdentifier: 
+  id: 2
+  enemyName: "Escorpi\xF3n"
+  stats:
+    baseDamage: 1
+    maxHealth: 6
+    currentHealth: 6
+    manaPoints: 5
+    currentManaPoints: 5
+    strength: 7
+    dextery: 5
+    intelligence: 1
+  isBoss: 0
+  enemySprite: {fileID: 146506768437887847, guid: c7349f435258888408e1a681aa565780,
+    type: 3}

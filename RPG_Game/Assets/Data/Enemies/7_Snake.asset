@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993c004cdcff1f340a1bbc736448be4d, type: 3}
+  m_Name: 7_Snake
+  m_EditorClassIdentifier: 
+  id: 7
+  enemyName: Serpiente
+  stats:
+    baseDamage: 3
+    maxHealth: 5
+    currentHealth: 5
+    manaPoints: 5
+    currentManaPoints: 5
+    strength: 8
+    dextery: 8
+    intelligence: 5
+  isBoss: 0
+  enemySprite: {fileID: 7222667975050070994, guid: ac51d83f93b68804eaf5caf5c9e19657,
+    type: 3}

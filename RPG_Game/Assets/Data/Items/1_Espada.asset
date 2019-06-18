@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f6586fbdb6db44a9af7f202ebd54a, type: 3}
+  m_Name: 1_Espada
+  m_EditorClassIdentifier: 
+  id: 1
+  itemName: Espada rota
+  itemType: 1
+  values: 01000000
+  targetStats: 01000000
+  price: 5
+  icon: {fileID: 21300000, guid: e1644313628b63543981fa34f6a72984, type: 3}
+  description: Espada rota, no sirve de mucho

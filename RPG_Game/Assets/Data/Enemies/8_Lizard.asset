@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993c004cdcff1f340a1bbc736448be4d, type: 3}
+  m_Name: 8_Lizard
+  m_EditorClassIdentifier: 
+  id: 8
+  enemyName: Hombre Lagarto
+  stats:
+    baseDamage: 6
+    maxHealth: 10
+    currentHealth: 10
+    manaPoints: 10
+    currentManaPoints: 10
+    strength: 9
+    dextery: 7
+    intelligence: 7
+  isBoss: 0
+  enemySprite: {fileID: 4588848654756591027, guid: 88859d7dfb3191447b2c09120e5d2344,
+    type: 3}

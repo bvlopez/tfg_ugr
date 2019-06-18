@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f659128e2ed43844fae1e97c7a53ed83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyCatalog: {fileID: 11400000, guid: 254adf2619f421541948a3fabe7e52e5, type: 2}
+  - skillCatalog: {fileID: 11400000, guid: 6a2141776733e1f48adddbee478c2b86, type: 2}
+  - itemCatalog: {fileID: 11400000, guid: a6b639f5ceaed2f45984adb35a1f90cc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

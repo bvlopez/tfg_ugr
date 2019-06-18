@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993c004cdcff1f340a1bbc736448be4d, type: 3}
+  m_Name: 6_Skeleton
+  m_EditorClassIdentifier: 
+  id: 6
+  enemyName: Esqueleto
+  stats:
+    baseDamage: 5
+    maxHealth: 8
+    currentHealth: 8
+    manaPoints: 8
+    currentManaPoints: 8
+    strength: 8
+    dextery: 4
+    intelligence: 5
+  isBoss: 0
+  enemySprite: {fileID: 1588829638532961139, guid: b30fc852f8fe2a54ab14ee2c12204907,
+    type: 3}

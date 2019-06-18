@@ -1,0 +1,2966 @@
+fileFormatVersion: 2
+guid: d7fc212278cbfd846ab1e10d20a2f4e3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fantastic UI Starter Pack_0
+    21300002: Fantastic UI Starter Pack_1
+    21300004: Fantastic UI Starter Pack_2
+    21300006: Fantastic UI Starter Pack_3
+    21300008: Fantastic UI Starter Pack_4
+    21300010: Fantastic UI Starter Pack_5
+    21300012: Fantastic UI Starter Pack_6
+    21300014: Fantastic UI Starter Pack_7
+    21300016: Fantastic UI Starter Pack_8
+    21300018: Fantastic UI Starter Pack_9
+    21300020: Fantastic UI Starter Pack_10
+    21300022: Fantastic UI Starter Pack_11
+    21300024: Fantastic UI Starter Pack_12
+    21300026: Fantastic UI Starter Pack_13
+    21300028: Fantastic UI Starter Pack_14
+    21300030: Fantastic UI Starter Pack_15
+    21300032: Fantastic UI Starter Pack_16
+    21300034: Fantastic UI Starter Pack_17
+    21300036: Fantastic UI Starter Pack_18
+    21300038: Fantastic UI Starter Pack_19
+    21300040: Fantastic UI Starter Pack_20
+    21300042: Fantastic UI Starter Pack_21
+    21300044: Fantastic UI Starter Pack_22
+    21300046: Fantastic UI Starter Pack_23
+    21300048: Fantastic UI Starter Pack_24
+    21300050: Fantastic UI Starter Pack_25
+    21300052: Fantastic UI Starter Pack_26
+    21300054: Fantastic UI Starter Pack_27
+    21300056: Fantastic UI Starter Pack_28
+    21300058: Fantastic UI Starter Pack_29
+    21300060: Fantastic UI Starter Pack_30
+    21300062: Fantastic UI Starter Pack_31
+    21300064: Fantastic UI Starter Pack_32
+    21300066: Fantastic UI Starter Pack_33
+    21300068: Fantastic UI Starter Pack_34
+    21300070: Fantastic UI Starter Pack_35
+    21300072: Fantastic UI Starter Pack_36
+    21300074: Fantastic UI Starter Pack_37
+    21300076: Fantastic UI Starter Pack_38
+    21300078: Fantastic UI Starter Pack_39
+    21300080: Fantastic UI Starter Pack_40
+    21300082: Fantastic UI Starter Pack_41
+    21300084: Fantastic UI Starter Pack_42
+    21300086: Fantastic UI Starter Pack_43
+    21300088: Fantastic UI Starter Pack_44
+    21300090: Fantastic UI Starter Pack_45
+    21300092: Fantastic UI Starter Pack_46
+    21300094: Fantastic UI Starter Pack_47
+    21300096: Fantastic UI Starter Pack_48
+    21300098: Fantastic UI Starter Pack_49
+    21300100: Fantastic UI Starter Pack_50
+    21300102: Fantastic UI Starter Pack_51
+    21300104: Fantastic UI Starter Pack_52
+    21300106: Fantastic UI Starter Pack_53
+    21300108: Fantastic UI Starter Pack_54
+    21300110: Fantastic UI Starter Pack_55
+    21300112: Fantastic UI Starter Pack_56
+    21300114: Fantastic UI Starter Pack_57
+    21300116: Fantastic UI Starter Pack_58
+    21300118: Fantastic UI Starter Pack_59
+    21300120: Fantastic UI Starter Pack_60
+    21300122: Fantastic UI Starter Pack_61
+    21300124: Fantastic UI Starter Pack_62
+    21300126: Fantastic UI Starter Pack_63
+    21300128: Fantastic UI Starter Pack_64
+    21300130: Fantastic UI Starter Pack_65
+    21300132: Fantastic UI Starter Pack_66
+    21300134: Fantastic UI Starter Pack_67
+    21300136: Fantastic UI Starter Pack_68
+    21300138: Fantastic UI Starter Pack_69
+    21300140: Fantastic UI Starter Pack_70
+    21300142: Fantastic UI Starter Pack_71
+    21300144: Fantastic UI Starter Pack_72
+    21300146: Fantastic UI Starter Pack_73
+    21300148: Fantastic UI Starter Pack_74
+    21300150: Fantastic UI Starter Pack_75
+    21300152: Fantastic UI Starter Pack_76
+    21300154: Fantastic UI Starter Pack_77
+    21300156: Fantastic UI Starter Pack_78
+    21300158: Fantastic UI Starter Pack_79
+    21300160: Fantastic UI Starter Pack_80
+    21300162: Fantastic UI Starter Pack_81
+    21300164: Fantastic UI Starter Pack_82
+    21300166: Fantastic UI Starter Pack_83
+    21300168: Fantastic UI Starter Pack_84
+    21300170: Fantastic UI Starter Pack_85
+    21300172: Fantastic UI Starter Pack_86
+    21300174: Fantastic UI Starter Pack_87
+    21300176: Fantastic UI Starter Pack_88
+    21300178: Fantastic UI Starter Pack_89
+    21300180: Fantastic UI Starter Pack_90
+    21300182: Fantastic UI Starter Pack_91
+    21300184: Fantastic UI Starter Pack_92
+    21300186: Fantastic UI Starter Pack_93
+    21300188: Fantastic UI Starter Pack_94
+    21300190: Fantastic UI Starter Pack_95
+    21300192: Fantastic UI Starter Pack_96
+    21300194: Fantastic UI Starter Pack_97
+    21300196: Fantastic UI Starter Pack_98
+    21300198: Fantastic UI Starter Pack_99
+    21300200: Fantastic UI Starter Pack_100
+    21300202: Fantastic UI Starter Pack_101
+    21300204: Fantastic UI Starter Pack_102
+    21300206: Fantastic UI Starter Pack_103
+    21300208: Fantastic UI Starter Pack_104
+    21300210: Fantastic UI Starter Pack_105
+    21300212: Fantastic UI Starter Pack_106
+    21300214: Fantastic UI Starter Pack_107
+    21300216: Fantastic UI Starter Pack_108
+    21300218: Fantastic UI Starter Pack_109
+    21300220: Fantastic UI Starter Pack_110
+    21300222: Fantastic UI Starter Pack_111
+    21300224: Fantastic UI Starter Pack_112
+    21300226: Fantastic UI Starter Pack_113
+    21300228: Fantastic UI Starter Pack_114
+    21300230: Fantastic UI Starter Pack_115
+    21300232: Fantastic UI Starter Pack_116
+    21300234: Fantastic UI Starter Pack_117
+    21300236: Fantastic UI Starter Pack_118
+    21300238: Fantastic UI Starter Pack_119
+    21300240: Fantastic UI Starter Pack_120
+    21300242: Fantastic UI Starter Pack_121
+    21300244: Fantastic UI Starter Pack_122
+    21300246: Fantastic UI Starter Pack_123
+    21300248: Fantastic UI Starter Pack_124
+    21300250: Fantastic UI Starter Pack_125
+    21300252: Fantastic UI Starter Pack_126
+    21300254: Fantastic UI Starter Pack_127
+    21300256: Fantastic UI Starter Pack_128
+    21300258: Fantastic UI Starter Pack_129
+    21300260: Fantastic UI Starter Pack_130
+    21300262: Fantastic UI Starter Pack_131
+    21300264: Fantastic UI Starter Pack_132
+    21300266: Fantastic UI Starter Pack_133
+    21300268: Fantastic UI Starter Pack_134
+    21300270: Fantastic UI Starter Pack_135
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1360
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5704656b872949ab7fa90f0560edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1346
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da42001812eef46bb2dd284054b5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1346
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aafc649d290104dbed4a66519535fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1341
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa661f18f60524d9e3400893dd5a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1343
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71696b906e7f5442bf576864eb129cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1343
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca552dd0474f145b16bb1439de1d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1332
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce830f68a892940449f06620aaf1c060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1387
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d918d13112773745a5e45f478c64b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1335
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5717da248be5a42b90f4a650c6b86d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_9
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1330
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb867e6df813fff4db43af2321561655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_10
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1330
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d346a10bc25604cbae4bcaed75fe9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_11
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1330
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68daf7207b72bb4c89a0eb41ef2fb2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_12
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1330
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3886f47c31724478869407708d557c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1311
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26366b75da74f4fa4ddca8244548b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1333
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0062fa1e823c174aae8cf5a2f588227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_15
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1336
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f933b135a5dc45aaec765fcc20da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1335
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c8e5cbe454d094582ae996ac0a73aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_17
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1336
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603289f13a640194ea2e63aecae966f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1330
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed46a40e4794242826fda73932b5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_19
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1330
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61439c3a0867e6946bef0bd509dac34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1244
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da65c11db98f674f9e521316e30af72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b827bfe3dc2124499ab163f79625f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1244
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe5ce47f532f4d4abb1d735c766ac64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe91583fe50b73448974a3a3d856b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79269e3bba7601941b2bb2c6515f6d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f16cc7ac00a8e469d4ee468620a12f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4f8d51297c7a14e91889b9cf13d5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a873fc7458a746844335870bc467d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1242
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae9963430145c94b960cf17572282d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1242
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587792d2d6bcb948accdfe04b500147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1234
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a700d1055cb6ad40aa238ac9fb0ee83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_31
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1223
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d2777c4deb0841a3a1f3ae75473b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_32
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1223
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0306e014b45b1e4b8e895a4325f30ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_33
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1223
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94560313791984e41bad0c45dd51c713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_34
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1223
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c07a8bfabf7bd44b179fabaf5972b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_35
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1235
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761602adad67384ba4fd7b8f4e6a4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_36
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1266
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f448bf299da394989b9afb9c5d7766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1240
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5afb08c4ca695547820aa3c7b95ae5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 986
+        width: 244
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94771608e22a3dc4a8e647dc522f7b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_39
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff2b79cc1970546bf257e3ff96672f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1143
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6122a60ef854884da8493ec356f2e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_41
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1049
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac0ee08f304cf43b98d5d9c4146ef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_42
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1128
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f043acd3bc5a74ea1004e20d799fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_43
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1128
+        width: 129
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a575efbc1d47d9488a860fd934b573c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_44
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1151
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0f9385146dba4c8406c6e0713a349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_45
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1151
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634398034d8612e448b20ec3bb3d4288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_46
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1151
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93716d3528e06cb499466434dedeb3b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_47
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f93d16b5651ad429cce3fff04b5e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_48
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca68ff224541e49a380f3ef87a58c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_49
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a392bf10b2001144a02fa50c56b18c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_50
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1134
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196133c7ff230a84cbd261f464ef7e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_51
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1132
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a161003adf944793cfb0cab143d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1088
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331af2fee49fc14c985f5200f843f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_53
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1101
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9088cde975d754ea1c08a12daa9441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_54
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1101
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305586605577934b9eb14d1e07806b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_55
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1102
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e32e2369bd5594a83d5d7bb876eb58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_56
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1070
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bde139bebd6e74ea425eb2e4f5d627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_57
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1070
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e425c2e9c16e3a143bbfcdbd293e001e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_58
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1044
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a537befad6a44483d314f65fb34a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_59
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1044
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377daa237ea365478a06863ec88b770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_60
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1044
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9312665f55f3b418c49defc4a2ea43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_61
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1033
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6a2f465d16934da4c2e7e01abd63c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_62
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1033
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096d3f9a7325334a97309924dd55ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_63
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1033
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7101579e6641468464e5c3fa20f92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_64
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1032
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28067b1c4d400ad49a0c30c926d6b82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_65
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1033
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e77bad13b23a42984ed060cba544b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_66
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1014
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd52e02d9996b48aa647732ac3952b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_67
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 991
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce728fd56e9dd45823f9a96bd0290a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_68
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 990
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd5a9649ac6dc4fabf2fc9dd9c1742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_69
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 992
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b83471f0a563914c87c5768f4948822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 743
+        width: 237
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95011c996f5952048a8cac401f7cb93d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 959
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba66d6780a2b064c874861fcdfe778e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_72
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 963
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae525ab514969844591233502dea2b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_73
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 963
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1cd70df1e5b344cb77f4a736cbd90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_74
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 947
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29faeb73d1917e4daf5464e4c876027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_75
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 938
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c3d0c61bd2e94084e7f853bd87ef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_76
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 940
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3fc28e08d406e45a8878c94a339ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_77
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 956
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47b57449d67f745bcbe38183855575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_78
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 956
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00695a3aded734ab981ffc9567a4ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_79
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 902
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d8f0835d1dcf48b821ee954511a95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_80
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 900
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb50fa32633b647aa7f348f5376dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_81
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 902
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ef668c1f252843973e7b98bbd3498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_82
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 900
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c32220401e087459433bc2a9950c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_83
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 902
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11312d0e2a888024f903b1e8b2d30a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_84
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 899
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6693d36314798e41a4e41d2ea4d3cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_85
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 931
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5d7ece6a70cd46bf0e80fd255a98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 905
+        width: 125
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87818d6f33bceb34da0a8da87467c298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_87
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 900
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6a4a90d7437d4992bbe3ee3fc2f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_88
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 896
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0df12b20071724b810b1d038b739fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_89
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 896
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74881ba0795e740b2f67c2bae07c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_90
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 896
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d78a8566574764f99e59fd5b2aa9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_91
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 844
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6294eeb1f201e4dab11523835d043a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_92
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 876
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799f17d8f62aa94ab8559b516c04205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_93
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 836
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3a3fdbc96b644c9afc68041a33d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_94
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 836
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376ff78a35715340b9e3f9ff66ae796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_95
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 784
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652f398b3a8beb4ca23b21918a541a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_96
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 783
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb32d57fd43794486e86efdbcbff40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_97
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 779
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d050b7ce07c5c4e93be506a2530e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_98
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 796
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbac667aca02424db8f725fd353f79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_99
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf438ee72bdc5418fd1540db0d11c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_100
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 796
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557a63a722794a42aacf6349e606718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_101
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 796
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2bbcb4912dd3479f24f4d0bdd1b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_102
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 855
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21f0a9fd31b5647a876bffba65bc6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_103
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 796
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973e50243c82c341a7d19c40769fa2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_104
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 842
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302480ec5ac90b34db8aa3fb67b3a489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_105
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6722f122e0e84e43bebf984df753d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_106
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 842
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6f2ba07ed193468a595150dea3a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 778
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c90ab9aa7caea4e9f029eb85997b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_108
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 823
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f46808592350c4ca99b402b3870532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_109
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 823
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a73d0fecbffa44853eef6fb89c81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_110
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 825
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60fc9a9e5a4a742823bbf1a94bc97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_111
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 809
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959cd5b469cb4e46a86ae1998804287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_112
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 825
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f25f5ef32c5004fa963d6938fa48e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_113
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 807
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04c6a9cc8dec44ba97d5d01bff97ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_114
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 769
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b728004570d0c4d9cfc5db32a19574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_115
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 771
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e8b8a23e76924daa78be319888a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_116
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805afc93b09756044ac5a21fe57c4c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_117
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 802
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368da80d58ca684e8060865aef3a1ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_118
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2831c885d07419409464004098901c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_119
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 796
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aad83316949564c846463486f4d4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_120
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 765
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc1f4206a033f4e8561c79d04436a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_121
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 765
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4127b82b8cf0144bcd8913b4e1fb4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_122
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 715
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb8832aaf6141546a75f7ca0e34c26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 444
+        width: 252
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15c425075565b43a83e02528d1d673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_124
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 448
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c44ef4dd67bf40a83b65713e56431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_125
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 448
+        width: 108
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02650477ed99d7b41b498f4203af6d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_126
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 445
+        width: 226
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc02a195d3722d3489b85ca9fa93408c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_127
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 449
+        width: 118
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc151d12673dcc4c8ddb4bf885e09a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_128
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 599
+        width: 264
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba86a64bd4ba58d4883584f397891b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_129
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 564
+        width: 266
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb576c77dea79c447a4c90ec342c5faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_130
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 528
+        width: 264
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36b4f8bab566b4290b059be966cae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_131
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 324
+        width: 648
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa101e164e66346a024e07a860817a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_132
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 276
+        width: 603
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b8a7c4e5c50e44b82d30a466ce8ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 656
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530e6188f4b9b44eb78cf10f0bbab4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_134
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 119
+        width: 597
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081429f9cfdfd344993796f5582533f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic UI Starter Pack_135
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 57
+        width: 610
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56ec81dd8565f4e8969d0d71dc7aed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27deafbb55a9f7444957be190d032989
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
