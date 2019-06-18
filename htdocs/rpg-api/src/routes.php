@@ -636,6 +636,24 @@ function addExperience($new_experience, $player_id) {
             $stmt = $db->prepare($sql3);
             $stmt->bindParam("player_id", $player_id);             
             $stmt->execute();
+
+            if($level == 5) {
+                $skill;
+                $sql4 = "INSERT INTO player_skill (player_id, skill_id) VALUES (:player_id, :skill_id)";
+                if($class == "wizard") {
+                    $skill = 4;
+                }
+                else if ($class == "warrior"){
+                    $skill = 5;
+                }
+                else {
+                    $skill = 6;
+                }
+                $stmt = $db->prepare($sql4);
+                $stmt->bindParam("player_id", $player_id);
+                $stmt->bindParam("skill_id", $skill);   
+                $stmt->execute();
+            }
         }
 
         $db = getConnection();
@@ -904,7 +922,7 @@ function createPlayer($request) {
                 $dextery = 10;
                 $mana = 40;;
                 $health = 100; 
-                $skill = 1;               
+                $skill = 2;               
             }
             else if($data->class == "wizard") {
                 $strength = 8;
@@ -920,7 +938,7 @@ function createPlayer($request) {
                 $dextery = 12;
                 $mana = 80;
                 $health = 85;
-                $skill = 1;
+                $skill = 3;
             }
             $stmt->bindParam("strength", $strength);
             $stmt->bindParam("max_health", $health);
