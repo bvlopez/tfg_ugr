@@ -3501,6 +3501,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc8d2c00ac24518419fa62552a47f6bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  portraits:
+  - {fileID: 21300096, guid: 4e49c2d142127954493af7a2c2acccdf, type: 3}
+  - {fileID: 21300046, guid: 4e49c2d142127954493af7a2c2acccdf, type: 3}
+  - {fileID: 21300110, guid: 4e49c2d142127954493af7a2c2acccdf, type: 3}
+  portrait: {fileID: 1614677324}
 --- !u!114 &1614677328
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -27,6 +27,10 @@ public class MenuManager : MonoBehaviour
     private List<Sprite> factionsIcons;
     [SerializeField]
     private Image factionIcon;
+    [SerializeField]
+    private List<Sprite> portraits;
+    [SerializeField]
+    private Image portrait;
     GameObject scrollView;
     private GameObject inventoryButton;
     private GameObject questsButton;
@@ -180,6 +184,16 @@ public class MenuManager : MonoBehaviour
         }
         else {
             factionIcon.sprite = factionsIcons[1];
+        }
+
+        if(player.getJob() == Job.Wizard) {
+            portrait.sprite = portraits[0];
+        }
+        else if(player.getJob() == Job.Warrior) {
+            portrait.sprite = portraits[1];
+        }
+        else {
+            portrait.sprite = portraits[2];
         }
         
         setItemsView();
